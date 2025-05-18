@@ -27,5 +27,3 @@ This project is licensed under the LGPL license. Please see the LICENSE file for
 All original content and credits belong to the creators of Steam 'n' Rails, Create mod, and other included projects. See LICENSE files for each.
 
 ---
-
-If you want, I can help you set up the LICENSE files or a CONTRIBUTING guide next!
